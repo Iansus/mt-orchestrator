@@ -1,0 +1,17 @@
+# Python
+*.pyc
+
+# Backups
+.*.swp
+~*
+
+# Virtualenv
+bin/
+include/
+lib/
+local/
+pip-selfcheck.json
+share/
+Scripts/
+Tcl/
+src/
